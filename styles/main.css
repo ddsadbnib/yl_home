@@ -1,0 +1,80 @@
+
+@charset "utf-8";
+body {
+	background-image: url(../images/bj1.jpg);
+	background-size: cover;
+	font-family: "微软雅黑";
+	
+	font-size: 16px;
+	line-height: 25px;
+	color: #00f
+}
+.nav {
+	border-bottom-width: 1px;
+	border-bottom-style: solid;
+	border-bottom-color: #738CAA;
+	width: 1000px;
+	margin-right: auto;
+	margin-left: auto;
+}
+
+p {
+	color: #333
+}
+
+td {
+	align-items: center;
+}
+
+.main {
+	width: 1000px;
+	background-image: url(../images/bj.jpg);
+	filter: opacity(80%);
+	color: #000;
+}
+a {
+	font-size: 14px;
+	font-family: "微软雅黑";
+}
+a:link {
+	color: #333;
+	text-decoration: none;
+}
+a:visited {
+	text-decoration: none;
+	color: #333;
+}
+a:hover {
+	text-decoration: none;
+	color: #FFF;
+}
+a:active {
+	text-decoration: none;
+	color: #333;
+}
+.title {
+	border-bottom-width: 1px;
+	border-bottom-style: solid;
+	border-bottom-color: #200F15;
+	border-left-width: 5px;
+	border-left-style: solid;
+	border-left-color: #200F15;
+	padding-left: 10px;
+	color: #AD5A5A;
+}
+
+.curry {
+	font-size: 16px;
+}
+.curry:link {
+	color: #AD5A5A;
+}
+.curry:visited {
+	color: #AD5A5A;
+}
+.curry:hover {
+	color: #333;
+}
+.curry:active {
+	color: #AD5A5A;
+}
